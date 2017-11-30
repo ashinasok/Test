@@ -6,4 +6,4 @@ The data is then presented using tableView and CollectionView.
 Deployment Target: iOS 10.3
 
 
-![Alt Text](https://github.com/ashinasok/Test/blob/master/test.gif)
+![Alt Text](https://drive.google.com/open?id=1-5nO1RFqtjzsVTpKQWaTKf8sRyX6JnXy)
