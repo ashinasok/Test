@@ -1,0 +1,527 @@
+{
+    "sections": [{
+            "title": "New Arrivals",
+            "sort_order": "1",
+            "type": "general",
+            "items": [{
+                    "sort_order": "1",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "14",
+                        "name": "Steaks 500 gram",
+                        "sku": "RSFDFSHSERS0050",
+                        "price": "430.0000",
+                        "special_price": 430,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/s/e/seer-fish-s-1000x640_1_1.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/s/e/seer-fish-s-280_1_1.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/s/e/seer-fish-s-1000x640_1_1.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1194,
+                        "is_in_stock": "1",
+                        "parent_id": "38",
+                        "parent_name": "Seer Fish",
+                        "parent_sku": "RSFDFSHSER00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/s/e/seer-fish-s-1000x640_1_1.jpg"
+                    }
+                },
+                {
+                    "sort_order": "2",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "238",
+                        "name": "Portions Medium 500 gram",
+                        "sku": "RSFDCRBSCRP2050",
+                        "price": "410.0000",
+                        "special_price": 410,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/s/e/sea-crab-portn-1000x640_1_3.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/s/e/sea-crab-portn280x179_1_2.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/s/e/sea-crab-portn-1000x640_1_3.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1216,
+                        "is_in_stock": "1",
+                        "parent_id": "27",
+                        "parent_name": "Sea Crab",
+                        "parent_sku": "RSFDCRBSCR00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/s/e/sea-crab-portn-1000x640_1_3.jpg"
+                    }
+                },
+                {
+                    "sort_order": "3",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "15",
+                        "name": "Pieces 500 gram",
+                        "sku": "RSFDFSHBPTLP050",
+                        "price": "310.0000",
+                        "special_price": 310,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_280x179.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1265,
+                        "is_in_stock": "1",
+                        "parent_id": "30",
+                        "parent_name": "Black Pomfret",
+                        "parent_sku": "RSFDFSHBPT00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg"
+                    }
+                },
+                {
+                    "sort_order": "4",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "141",
+                        "name": "Pieces 500 gram",
+                        "sku": "RSFDFSHSALLP050",
+                        "price": "260.0000",
+                        "special_price": 260,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/d/f/df_sailfish_sp_1000x640.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/d/f/df_sailfish_sp_280x179.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/d/f/df_sailfish_sp_1000x640.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1327,
+                        "is_in_stock": "1",
+                        "parent_id": "142",
+                        "parent_name": "Sailfish",
+                        "parent_sku": "RSFDFSHSAL00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/d/f/df_sailfish_sp_1000x640.jpg"
+                    }
+                },
+                {
+                    "sort_order": "7",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "18",
+                        "name": "Cleaned Medium 500 gram",
+                        "sku": "RSFDFSHWPTCM050",
+                        "price": "450.0000",
+                        "special_price": 450,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-280_2.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1215,
+                        "is_in_stock": "1",
+                        "parent_id": "40",
+                        "parent_name": "White Pomfret",
+                        "parent_sku": "RSFDFSHWPT00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Test banner",
+            "sort_order": "1",
+            "type": "banner",
+            "items": [{
+                "sort_order": "1",
+                "type": "advertisement",
+                "parameter": {
+                    "id": "10",
+                    "title": "Nadan chemeen ularth video - full width",
+                    "type": "weblink",
+                    "image_url": "http://tvm.dailyfish.in/media/1080_480.png",
+                    "url": "https://www.youtube.com/watch?v=vEVgXsj4Uog&feature=youtu.be"
+                }
+            }]
+        },
+        {
+            "title": "Combos",
+            "sort_order": "2",
+            "type": "general",
+            "items": [{
+                    "sort_order": "2",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "381",
+                        "name": " 1500 gram",
+                        "sku": "RSFDCOMC7800150",
+                        "price": "1060.0000",
+                        "special_price": 960,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo960_1000x640.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo960_280x179.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo960_1000x640.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1246,
+                        "is_in_stock": "1",
+                        "parent_id": "289",
+                        "parent_name": "MAHIMAHI SAIL & SHRIMP @ 960",
+                        "parent_sku": "RSFDCOMC7800000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo960_1000x640.jpg"
+                    }
+                },
+                {
+                    "sort_order": "3",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "262",
+                        "name": " 1000 gram",
+                        "sku": "RSFDCOMC8000100",
+                        "price": "550.0000",
+                        "special_price": 450,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo450_280x179_1.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo450_1000x640_1.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo450_280x179_1.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1241,
+                        "is_in_stock": "1",
+                        "parent_id": "291",
+                        "parent_name": "MAHI MAHI &THREADFIN BREAM @ 450",
+                        "parent_sku": "RSFDCOMC8000000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo450_280x179_1.jpg"
+                    }
+                },
+                {
+                    "sort_order": "4",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "380",
+                        "name": " 1500 gram",
+                        "sku": "RSFDCOMC7500150",
+                        "price": "750.0000",
+                        "special_price": 650,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo650_1000x640_3.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo650_280x179_3.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo650_1000x640_3.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1247,
+                        "is_in_stock": "1",
+                        "parent_id": "382",
+                        "parent_name": "ANCHOVY SAIL & BASA @ 650",
+                        "parent_sku": "RSFDCOMC7500000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo650_1000x640_3.jpg"
+                    }
+                },
+                {
+                    "sort_order": "4",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "227",
+                        "name": " 1500 gram",
+                        "sku": "RSFDCOMC7600150",
+                        "price": "1200.0000",
+                        "special_price": 1100,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo1100_1000x640_1.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo1100_280x179_1.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo1100_1000x640_1.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1234,
+                        "is_in_stock": "1",
+                        "parent_id": "287",
+                        "parent_name": "SEER FISH BLACK POMFRET & ANCHOVY @1100",
+                        "parent_sku": "RSFDCOMC7600000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo1100_1000x640_1.jpg"
+                    }
+                },
+                {
+                    "sort_order": "5",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "243",
+                        "name": " 1500 gram",
+                        "sku": "RSFDCOMC7700150",
+                        "price": "1000.0000",
+                        "special_price": 900,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo900_1000x640_1.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo900_280x179_1.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo900_1000x640_1.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1242,
+                        "is_in_stock": "1",
+                        "parent_id": "288",
+                        "parent_name": "SEER MAHIMAHI & ANCHOVY @ 900",
+                        "parent_sku": "RSFDCOMC7700000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/c/o/combo900_1000x640_1.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Recipes",
+            "sort_order": "3",
+            "type": "general",
+            "items": [{
+                    "sort_order": "1",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "11",
+                        "title": "Anchovy Peera Pattichathu video - Square",
+                        "type": "weblink",
+                        "image_url": "http://tvm.dailyfish.in/media/AnchovyPearlPattichathu.png",
+                        "url": "https://www.youtube.com/watch?v=3hPTkYPYD_Q"
+                    }
+                },
+                {
+                    "sort_order": "2",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "12",
+                        "title": "Naadan Chemeen Ularth video - Square",
+                        "type": "weblink",
+                        "image_url": "http://tvm.dailyfish.in/media/Nad.png",
+                        "url": "https://www.youtube.com/watch?v=vEVgXsj4Uog&feature=youtu.be"
+                    }
+                },
+                {
+                    "sort_order": "3",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "13",
+                        "title": "Lemon Baked Fish video - Square",
+                        "type": "weblink",
+                        "image_url": "http://tvm.dailyfish.in/media/lemon_bakedfish_1.png",
+                        "url": "https://www.youtube.com/watch?v=yQzqK4PlaLw&feature=youtu.be"
+                    }
+                },
+                {
+                    "sort_order": "4",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "14",
+                        "title": "Tuna Sandwich video - Square",
+                        "type": "weblink",
+                        "image_url": "http://tvm.dailyfish.in/media/tuna-sandwitch_1.png",
+                        "url": "https://www.youtube.com/watch?v=bS5V8l_vhLA"
+                    }
+                },
+                {
+                    "sort_order": "5",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "15",
+                        "title": "Pepper Crab video - Square",
+                        "type": "weblink",
+                        "image_url": "http://tvm.dailyfish.in/media/pepper-crab_1.png",
+                        "url": "https://www.youtube.com/watch?v=OUVCg22gzyw"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Best Seller",
+            "sort_order": "4",
+            "type": "general",
+            "items": [{
+                    "sort_order": "1",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "15",
+                        "name": "Pieces 500 gram",
+                        "sku": "RSFDFSHBPTLP050",
+                        "price": "310.0000",
+                        "special_price": 310,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_280x179.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1265,
+                        "is_in_stock": "1",
+                        "parent_id": "30",
+                        "parent_name": "Black Pomfret",
+                        "parent_sku": "RSFDFSHBPT00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/p/o/pomfret_pieces_1000x640.jpg"
+                    }
+                },
+                {
+                    "sort_order": "2",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "102",
+                        "name": "Large 250 gram",
+                        "sku": "RSFDSMPSPDPB025",
+                        "price": "230.0000",
+                        "special_price": 230,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/s/h/shrimp_peeled_deveined1000x640_7.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/s/h/shrimp_peeled_deveined280x179_7.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/s/h/shrimp_peeled_deveined1000x640_7.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1369,
+                        "is_in_stock": "1",
+                        "parent_id": "117",
+                        "parent_name": "Shrimp Peeled & Deveined",
+                        "parent_sku": "RSFDSMPSPD00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/s/h/shrimp_peeled_deveined1000x640_7.jpg"
+                    }
+                },
+                {
+                    "sort_order": "3",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "18",
+                        "name": "Cleaned Medium 500 gram",
+                        "sku": "RSFDFSHWPTCM050",
+                        "price": "450.0000",
+                        "special_price": 450,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-280_2.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1215,
+                        "is_in_stock": "1",
+                        "parent_id": "40",
+                        "parent_name": "White Pomfret",
+                        "parent_sku": "RSFDFSHWPT00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/w/h/white-pmft-clend-1000x640_2.jpg"
+                    }
+                },
+                {
+                    "sort_order": "4",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "9",
+                        "name": "Tubes 500 gram",
+                        "sku": "RSFDSQDSQDTU050",
+                        "price": "370.0000",
+                        "special_price": 370,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/s/q/squid_tube_1000_x_640_2.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/s/q/squid_tube_280_x_179_2.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/s/q/squid_tube_1000_x_640_2.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1304,
+                        "is_in_stock": "1",
+                        "parent_id": "43",
+                        "parent_name": "Squid",
+                        "parent_sku": "RSFDSQDSQD00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/s/q/squid_tube_1000_x_640_2.jpg"
+                    }
+                },
+                {
+                    "sort_order": "5",
+                    "type": "product",
+                    "parameter": {
+                        "entity_id": "129",
+                        "name": "Cleaned Large 500 gram",
+                        "sku": "RSFDFSHTFBCB050",
+                        "price": "240.0000",
+                        "special_price": 240,
+                        "image": "http://tvm.dailyfish.in/media/catalog/product/k/i/killimeen_sp_1000x640_1_1.jpg",
+                        "small_image": "http://tvm.dailyfish.in/media/catalog/product/k/i/killimeen_sp_280x179_1_1.jpg",
+                        "thumbnail": "http://tvm.dailyfish.in/media/catalog/product/k/i/killimeen_sp_1000x640_1_1.jpg",
+                        "type_id": "simple",
+                        "stock_qty": 1250,
+                        "is_in_stock": "1",
+                        "parent_id": "130",
+                        "parent_name": "Threadfin Bream",
+                        "parent_sku": "RSFDFSHTFB00000",
+                        "image_url": "http://tvm.dailyfish.in/media/catalog/product/k/i/killimeen_sp_1000x640_1_1.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Connect With Us",
+            "sort_order": "5",
+            "type": "general",
+            "items": [{
+                    "sort_order": "2",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "6",
+                        "title": "Call Us",
+                        "type": "callus",
+                        "image_url": "http://tvm.dailyfish.in/media/call.png",
+                        "phone": "902-002-2222"
+                    }
+                },
+                {
+                    "sort_order": "3",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "1",
+                        "title": "Chat With Us",
+                        "type": "chat",
+                        "image_url": "http://tvm.dailyfish.in/media/Typetous.png",
+                        "chat": "Chat"
+                    }
+                },
+                {
+                    "sort_order": "5",
+                    "type": "advertisement",
+                    "parameter": {
+                        "id": "16",
+                        "title": "All restaurant",
+                        "type": "all_restaurant",
+                        "image_url": "http://tvm.dailyfish.in/media/MeenVevichathu1_640x360.jpg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Recipe full width",
+            "sort_order": "6",
+            "type": "banner",
+            "items": [{
+                "sort_order": "6",
+                "type": "advertisement",
+                "parameter": {
+                    "id": "9",
+                    "title": "Full width banner",
+                    "type": "weblink",
+                    "image_url": "http://tvm.dailyfish.in/media/MobBanner_PepperCrab.jpg",
+                    "url": "https://www.youtube.com/watch?v=Uur6EfTfQVY"
+                }
+            }]
+        },
+        {
+            "title": "Recipe",
+            "type": "general",
+            "items": [{
+                    "sort_order": 1,
+                    "type": "recipe",
+                    "parameter": {
+                        "id": "109",
+                        "title": "PEPPER FISH MASALA",
+                        "image_url": "http://tvm.dailyfish.in/media/uploads/PepperFishMasala_640x360.jpg",
+                        "created_by": "User"
+                    },
+                    "rating": "5"
+                },
+                {
+                    "sort_order": 2,
+                    "type": "recipe",
+                    "parameter": {
+                        "id": "74",
+                        "title": "Nadan Chemeen Ularthu With Daily Fish ",
+                        "image_url": "http://tvm.dailyfish.in/media/uploads/NadanChemeenUlarthu_640x360.jpg",
+                        "created_by": "User"
+                    },
+                    "rating": "5"
+                },
+                {
+                    "sort_order": 3,
+                    "type": "recipe",
+                    "parameter": {
+                        "id": "116",
+                        "title": "CRAB COCONUT CURRY",
+                        "image_url": "http://tvm.dailyfish.in/media/uploads/SeaCrabCoconutCurry_640x360.jpg",
+                        "created_by": "User"
+                    },
+                    "rating": "5"
+                },
+                {
+                    "sort_order": 4,
+                    "type": "recipe",
+                    "parameter": {
+                        "id": "138",
+                        "title": "Sardine Fish Fry ",
+                        "image_url": "http://tvm.dailyfish.in/media/uploads/FishFry_640x360.jpg",
+                        "created_by": "User"
+                    },
+                    "rating": "5"
+                },
+                {
+                    "sort_order": 5,
+                    "type": "recipe",
+                    "parameter": {
+                        "id": "63",
+                        "title": "Prawns Fry",
+                        "image_url": "http://tvm.dailyfish.in/media/uploads/PrawnFry_640x360.jpg",
+                        "created_by": "User"
+                    },
+                    "rating": "5"
+                }
+            ]
+        }
+    ]
+}
